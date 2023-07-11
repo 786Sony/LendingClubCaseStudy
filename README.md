@@ -35,6 +35,7 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 ### Data Set
 
 > The data set is a csv file with the loan data for the Lending Club.
+> Refer Data dictionary- "Data_Dictionary.xlsx" for in depth understanding of the dataset.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
