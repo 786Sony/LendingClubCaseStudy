@@ -39,6 +39,7 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
+- Below factors can be use to predict the chance of defaulting and avoiding Credit Loss:
 - Grades
 - Annual income
 - Pub_rec_bankruptcies
