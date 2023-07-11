@@ -64,6 +64,7 @@ Atlast we can recommend the investor what all variables to be considered while a
 - Annual income
 - Pub_rec_bankruptcies
 - Verification Status
+- DTI
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
